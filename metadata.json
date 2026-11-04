@@ -1,0 +1,6 @@
+{
+  "name": "DevPulse High-Tech Telemetry",
+  "description": "High-tech cyberpunk DevOps & SRE infrastructure telemetry console with real-time cluster metrics, pod matrix visualizer, interactive terminal CLI, live log stream, and incident triage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
